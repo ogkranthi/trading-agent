@@ -1,0 +1,9 @@
+# Microsoft Agent Framework (preview) with Azure AI Foundry support
+# Note: --pre flag is required while Agent Framework is in preview
+agent-framework-azure-ai
+
+# Azure Identity for authentication
+azure-identity
+
+# Environment variables
+python-dotenv
