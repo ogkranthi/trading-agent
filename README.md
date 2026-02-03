@@ -126,7 +126,7 @@ python main.py "Tesla stock analysis and price prediction"
 🏦 TRADING ANALYSIS MULTI-AGENT SYSTEM
 ============================================================
 Query: AAPL
-Model: gpt-4o
+Model: grok-4-fast-reasoning
 ============================================================
 
 🚀 Dispatching analysis request: AAPL
